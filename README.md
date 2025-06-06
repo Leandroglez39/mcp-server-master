@@ -1,4 +1,6 @@
-## Installation
+## Installation Guide
+
+<!-- Minor update: Documentation improved on June 6, 2025 -->
 
 ### Adding MCP to your python project
 
